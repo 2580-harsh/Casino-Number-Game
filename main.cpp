@@ -2,7 +2,7 @@ include <iostream>
 //adding the switch case
 using namespace std;
 
-class grocccery {
+class Grocery {
 private:
     int choice;
     float tax;
