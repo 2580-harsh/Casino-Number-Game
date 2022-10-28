@@ -211,7 +211,7 @@ int main() {
     }
     if (choose == 3) {
         Medicines c;
-        cshowdata();
+        c.showdata();
         c.getdata();
     }
 }
