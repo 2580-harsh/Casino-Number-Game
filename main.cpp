@@ -164,7 +164,7 @@ public:
             bill = quantity * 16;
             cout << "BILL = " << bill;
         }
-        if (choice == 2) {
+        if (choice == 3) {
             cout << "PRICE OF MEDLER IS 23" << endl;
             cout << "ENTER QUANTITY = ";
             cin >> quantity;
